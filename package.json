@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/spielhoelle/twitterbot/issues"
   },
-  "homepage": "https://github.com/spielhoelle/twitterbot#readme"
+  "homepage": "https://github.com/spielhoelle/twitterbot#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
 }
