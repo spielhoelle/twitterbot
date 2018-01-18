@@ -1,0 +1,24 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "easy twitterbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/spielhoelle/twitterbot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "node"
+  ],
+  "author": "Thomas Kuhnert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spielhoelle/twitterbot/issues"
+  },
+  "homepage": "https://github.com/spielhoelle/twitterbot#readme"
+}
