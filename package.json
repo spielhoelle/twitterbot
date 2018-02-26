@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/spielhoelle/twitterbot#readme",
   "dependencies": {
-    "dotenv": "^4.0.0",
+    "dotenv": "^5.0.1",
     "twit": "^2.2.9"
   }
 }
